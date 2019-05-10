@@ -8,7 +8,6 @@ branches:
   - dev
 
 before_script:
-  - npm install
   - npm install hexo -g
 script:
   - cd blog
